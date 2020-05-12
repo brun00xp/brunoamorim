@@ -1,0 +1,35 @@
+body {
+    background-image: url('https://www.cdlbh.com.br/midia/funcionario-feliz-satisfeito-trabalho-0417-1400x800.png');
+    background-size: auto 100vh;
+    font-family: arial;
+    height: 100vh;
+    }
+  
+.menu {
+    background-color: white;
+  }
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-title {
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    text-align: center;
+  }
